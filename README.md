@@ -1,3 +1,3 @@
 # Social-Network-Analysis
 
-Extracting Features.
+Extracting Features from different graphs.
